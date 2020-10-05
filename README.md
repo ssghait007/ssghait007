@@ -52,9 +52,7 @@
 
 </details>
 
-[![Top Langs](https://github-readme-stats.ssghait007.vercel.app/api/top-langs/?username=ssghait007&layout=compact)](https://github.com/ssghait007/pyclone)
-
-[![Sachin Ghait's wakatime stats](https://github-readme-stats.ssghait007.vercel.app/api/wakatime?username=ssghait007)](https://github.com/ssghait007/pyclone)
+[![Top Langs](https://github-readme-stats.ssghait007.vercel.app/api/top-langs/?username=ssghait007&layout=compact)](https://github.com/ssghait007/pyclone) [![Sachin Ghait's wakatime stats](https://github-readme-stats.ssghait007.vercel.app/api/wakatime?username=ssghait007)](https://github.com/ssghait007/pyclone)
 
 [linkedin]: https://www.linkedin.com/in/sachin-ghait-02977794/
 [facebook]: https://www.facebook.com/ssghait
