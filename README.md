@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#19](https://github.com/1VinceP/vue-simple-notes/issues/19) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-2. 💪 Opened PR [#19](https://github.com/1VinceP/vue-simple-notes/pull/19) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-3. 🎉 Merged PR [#2](https://github.com/ssghait007/portsite/pull/2) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
-4. 💪 Opened PR [#2](https://github.com/ssghait007/portsite/pull/2) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
+1. 🗣 Commented on [#13](https://github.com/1VinceP/vue-simple-notes/issues/13) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+2. 🗣 Commented on [#19](https://github.com/1VinceP/vue-simple-notes/issues/19) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+3. 💪 Opened PR [#19](https://github.com/1VinceP/vue-simple-notes/pull/19) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+4. 🎉 Merged PR [#2](https://github.com/ssghait007/portsite/pull/2) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
 <!--END_SECTION:activity-->
 
 </details>
