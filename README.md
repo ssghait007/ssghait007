@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#13](https://github.com/1VinceP/vue-simple-notes/issues/13) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-2. 🗣 Commented on [#13](https://github.com/1VinceP/vue-simple-notes/issues/13) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-3. 🗣 Commented on [#19](https://github.com/1VinceP/vue-simple-notes/issues/19) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-4. 💪 Opened PR [#19](https://github.com/1VinceP/vue-simple-notes/pull/19) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+1. 🎉 Merged PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
+2. 💪 Opened PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
+3. 🗣 Commented on [#13](https://github.com/1VinceP/vue-simple-notes/issues/13) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+4. 🗣 Commented on [#13](https://github.com/1VinceP/vue-simple-notes/issues/13) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
 <!--END_SECTION:activity-->
 
 </details>
