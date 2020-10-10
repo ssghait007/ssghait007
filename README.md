@@ -55,6 +55,13 @@
 [![Top Langs](https://github-readme-stats.ssghait007.vercel.app/api/top-langs/?username=ssghait007&layout=compact)](https://github.com/ssghait007/pyclone)
 
 <!--START_SECTION:waka-->
+```text
+JavaScript   3 hrs 58 mins   ███████████████░░░░░░░░░░   59.76 % 
+Vue.js       1 hr 16 mins    ████▓░░░░░░░░░░░░░░░░░░░░   19.26 % 
+JSON         46 mins         ███░░░░░░░░░░░░░░░░░░░░░░   11.77 % 
+Git Config   13 mins         ▓░░░░░░░░░░░░░░░░░░░░░░░░   03.33 % 
+Markdown     7 mins          ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.92 % 
+```
 <!--END_SECTION:waka-->
 
 [linkedin]: https://www.linkedin.com/in/sachin-ghait-02977794/
