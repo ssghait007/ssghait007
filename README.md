@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🎉 Merged PR [#2](https://github.com/ssghait007/portsite/pull/2) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
-2. 💪 Opened PR [#2](https://github.com/ssghait007/portsite/pull/2) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
-3. 🎉 Merged PR [#1](https://github.com/ssghait007/portsite/pull/1) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
-4. 💪 Opened PR [#1](https://github.com/ssghait007/portsite/pull/1) in [ssghait007/portsite](https://github.com/ssghait007/portsite)
+1. 🗣 Commented on [#25](https://github.com/1VinceP/vue-simple-notes/issues/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+2. 💪 Opened PR [#25](https://github.com/1VinceP/vue-simple-notes/pull/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+3. 🎉 Merged PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
+4. 💪 Opened PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
 <!--END_SECTION:activity-->
 
 </details>
