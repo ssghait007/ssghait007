@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#25](https://github.com/1VinceP/vue-simple-notes/issues/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-2. 💪 Opened PR [#25](https://github.com/1VinceP/vue-simple-notes/pull/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
-3. 🎉 Merged PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
-4. 💪 Opened PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
+1. 🗣 Commented on [#12](https://github.com/rugglcon/python-backgroundchanger/issues/12) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
+2. 🗣 Commented on [#25](https://github.com/1VinceP/vue-simple-notes/issues/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+3. 💪 Opened PR [#25](https://github.com/1VinceP/vue-simple-notes/pull/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+4. 🎉 Merged PR [#1](https://github.com/ssghait007/netlify-faunadb-example/pull/1) in [ssghait007/netlify-faunadb-example](https://github.com/ssghait007/netlify-faunadb-example)
 <!--END_SECTION:activity-->
 
 </details>
