@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#17](https://github.com/KonradLinkowski/GeneticDrawer/issues/17) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-2. 💪 Opened PR [#17](https://github.com/KonradLinkowski/GeneticDrawer/pull/17) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-3. 🗣 Commented on [#12](https://github.com/rugglcon/python-backgroundchanger/issues/12) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
-4. 🗣 Commented on [#25](https://github.com/1VinceP/vue-simple-notes/issues/25) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+1. 💪 Opened PR [#20](https://github.com/rugglcon/python-backgroundchanger/pull/20) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
+2. 🗣 Commented on [#17](https://github.com/KonradLinkowski/GeneticDrawer/issues/17) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+3. 💪 Opened PR [#17](https://github.com/KonradLinkowski/GeneticDrawer/pull/17) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+4. 🗣 Commented on [#12](https://github.com/rugglcon/python-backgroundchanger/issues/12) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
 <!--END_SECTION:activity-->
 
 </details>
