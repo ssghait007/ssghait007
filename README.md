@@ -37,10 +37,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#20](https://github.com/rugglcon/python-backgroundchanger/issues/20) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
-2. 💪 Opened PR [#20](https://github.com/rugglcon/python-backgroundchanger/pull/20) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
-3. 🗣 Commented on [#17](https://github.com/KonradLinkowski/GeneticDrawer/issues/17) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
-4. 💪 Opened PR [#17](https://github.com/KonradLinkowski/GeneticDrawer/pull/17) in [KonradLinkowski/GeneticDrawer](https://github.com/KonradLinkowski/GeneticDrawer)
+1. 💪 Opened PR [#27](https://github.com/1VinceP/vue-simple-notes/pull/27) in [1VinceP/vue-simple-notes](https://github.com/1VinceP/vue-simple-notes)
+2. 🎉 Merged PR [#1](https://github.com/ssghait007/vue-simple-notes/pull/1) in [ssghait007/vue-simple-notes](https://github.com/ssghait007/vue-simple-notes)
+3. 💪 Opened PR [#1](https://github.com/ssghait007/vue-simple-notes/pull/1) in [ssghait007/vue-simple-notes](https://github.com/ssghait007/vue-simple-notes)
+4. 🗣 Commented on [#20](https://github.com/rugglcon/python-backgroundchanger/issues/20) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
 <!--END_SECTION:activity-->
 
 </details>
