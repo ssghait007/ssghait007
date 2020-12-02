@@ -56,9 +56,7 @@
 
 <!--START_SECTION:waka-->
 ```text
-HTML       3 mins          █████████████░░░░░░░░░░░░   52.01 % 
-Ruby       1 min           ██████▓░░░░░░░░░░░░░░░░░░   26.22 % 
-Markdown   1 min           █████▒░░░░░░░░░░░░░░░░░░░   21.77 % 
+No Activity tracked this Week
 ```
 <!--END_SECTION:waka-->
 
