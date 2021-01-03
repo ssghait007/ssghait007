@@ -56,7 +56,11 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       1 hr 41 mins    ████████████████▒░░░░░░░░   65.44 % 
+Markdown     34 mins         █████▓░░░░░░░░░░░░░░░░░░░   22.06 % 
+JavaScript   12 mins         ██░░░░░░░░░░░░░░░░░░░░░░░   07.85 % 
+YAML         4 mins          ▓░░░░░░░░░░░░░░░░░░░░░░░░   02.69 % 
+HTML         1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.16 % 
 ```
 <!--END_SECTION:waka-->
 
