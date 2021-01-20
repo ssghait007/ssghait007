@@ -56,7 +56,10 @@
 
 <!--START_SECTION:waka-->
 ```text
-No Activity tracked this Week
+Vue.js       58 mins         █████████████████████▓░░░   86.72 % 
+JSON         4 mins          █▓░░░░░░░░░░░░░░░░░░░░░░░   07.10 % 
+HTML         2 mins          █░░░░░░░░░░░░░░░░░░░░░░░░   03.73 % 
+JavaScript   1 min           ▒░░░░░░░░░░░░░░░░░░░░░░░░   01.99 % 
 ```
 <!--END_SECTION:waka-->
 
