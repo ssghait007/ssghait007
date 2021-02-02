@@ -37,7 +37,7 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#31](https://github.com/rugglcon/python-backgroundchanger/issues/31) in [rugglcon/python-backgroundchanger](https://github.com/rugglcon/python-backgroundchanger)
+1. 🎉 Merged PR [#1](https://github.com/ssghait007/blog/pull/1) in [ssghait007/blog](https://github.com/ssghait007/blog)
 2. ❌ Closed PR [#1](https://github.com/ssghait007/python-backgroundchanger/pull/1) in [ssghait007/python-backgroundchanger](https://github.com/ssghait007/python-backgroundchanger)
 3. ❌ Reopened PR [#1](https://github.com/ssghait007/python-backgroundchanger/pull/1) in [ssghait007/python-backgroundchanger](https://github.com/ssghait007/python-backgroundchanger)
 4. ❌ Closed PR [#1](https://github.com/ssghait007/python-backgroundchanger/pull/1) in [ssghait007/python-backgroundchanger](https://github.com/ssghait007/python-backgroundchanger)
