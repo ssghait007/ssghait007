@@ -3,7 +3,7 @@
 ## I'm a Developer !!
 
 - 🌱 I’m currently learning everything 🤣
-- Check out my blog https://sachin-ghait-blog.netlify.app/
+- Check out my blog https://onthegoalways.com/
 
 ### Connect with me:
 
