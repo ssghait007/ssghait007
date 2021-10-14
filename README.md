@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❗️ Opened issue [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
-2. ❗️ Opened issue [#35](https://github.com/tb-rules10/Hello-World/issues/35) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
-3. 💪 Opened PR [#106](https://github.com/sachith-1/helloAlgorithm/pull/106) in [sachith-1/helloAlgorithm](https://github.com/sachith-1/helloAlgorithm)
-4. ❌ Closed PR [#47](https://github.com/craplab/WeirdScripts/pull/47) in [craplab/WeirdScripts](https://github.com/craplab/WeirdScripts)
+1. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
+2. ❗️ Opened issue [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
+3. ❗️ Opened issue [#35](https://github.com/tb-rules10/Hello-World/issues/35) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
+4. 💪 Opened PR [#106](https://github.com/sachith-1/helloAlgorithm/pull/106) in [sachith-1/helloAlgorithm](https://github.com/sachith-1/helloAlgorithm)
 <!--END_SECTION:activity-->
 
 </details>
