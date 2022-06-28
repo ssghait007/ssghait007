@@ -38,8 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#38](https://github.com/RK1905101/Mini_Python_Projects/pull/38) in [RK1905101/Mini_Python_Projects](https://github.com/RK1905101/Mini_Python_Projects)
-2. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
+1. 🎉 Merged PR [#2](https://github.com/ssghait007/blog/pull/2) in [ssghait007/blog](https://github.com/ssghait007/blog)
+2. 💪 Opened PR [#2](https://github.com/ssghait007/blog/pull/2) in [ssghait007/blog](https://github.com/ssghait007/blog)
 3. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
 4. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
 <!--END_SECTION:activity-->
