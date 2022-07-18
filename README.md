@@ -34,8 +34,7 @@
 
 ---
 
-<details>
-  <summary>:zap: Recent GitHub Activity</summary>
+## :zap: Recent GitHub Activity
   
 <!--START_SECTION:activity-->
 1. 💪 Opened PR [#3](https://github.com/ssghait007/blog/pull/3) in [ssghait007/blog](https://github.com/ssghait007/blog)
@@ -44,14 +43,10 @@
 4. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
 <!--END_SECTION:activity-->
 
-</details>
-
-<details>
-  <summary>:zap: GitHub Stats</summary>
+## :zap: GitHub Stats
 
   <img align="left" alt="Sachin Ghait's GitHub Stats" src="https://github-readme-stats.ssghait007.vercel.app/api?username=ssghait007&show_icons=true&hide_border=true" />
 
-</details>
 
 [![Top Langs](https://github-readme-stats.ssghait007.vercel.app/api/top-langs/?username=ssghait007&layout=compact)](https://github.com/ssghait007/pyclone)
 
