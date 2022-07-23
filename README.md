@@ -38,9 +38,9 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#3](https://github.com/ssghait007/blog/pull/3) in [ssghait007/blog](https://github.com/ssghait007/blog)
-2. 💪 Opened PR [#2](https://github.com/ssghait007/blog/pull/2) in [ssghait007/blog](https://github.com/ssghait007/blog)
-3. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
+1. 💪 Opened PR [#3](https://github.com/ssghait007/notion-as-cms/pull/3) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+2. 💪 Opened PR [#2](https://github.com/ssghait007/notion-as-cms/pull/2) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+3. 💪 Opened PR [#3](https://github.com/ssghait007/blog/pull/3) in [ssghait007/blog](https://github.com/ssghait007/blog)
 4. 🗣 Commented on [#36](https://github.com/tb-rules10/Hello-World/issues/36) in [tb-rules10/Hello-World](https://github.com/tb-rules10/Hello-World)
 <!--END_SECTION:activity-->
 
