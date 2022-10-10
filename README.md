@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. ❌ Closed PR [#3](https://github.com/ssghait007/notion-as-cms/pull/3) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-2. 🎉 Merged PR [#6](https://github.com/ssghait007/notion-as-cms/pull/6) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-3. 💪 Opened PR [#6](https://github.com/ssghait007/notion-as-cms/pull/6) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-4. 🎉 Merged PR [#4](https://github.com/ssghait007/notion-as-cms/pull/4) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+1. 🗣 Commented on [#8](https://github.com/Pekanu/Pekanu-Compute-Engine/issues/8) in [Pekanu/Pekanu-Compute-Engine](https://github.com/Pekanu/Pekanu-Compute-Engine)
+2. 💪 Opened PR [#3247](https://github.com/mindsdb/mindsdb/pull/3247) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+3. ❌ Closed PR [#3](https://github.com/ssghait007/notion-as-cms/pull/3) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+4. 🎉 Merged PR [#6](https://github.com/ssghait007/notion-as-cms/pull/6) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
 <!--END_SECTION:activity-->
 
 </details>
