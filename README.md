@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Pekanu/Pekanu-Compute-Engine/issues/8) in [Pekanu/Pekanu-Compute-Engine](https://github.com/Pekanu/Pekanu-Compute-Engine)
-2. 💪 Opened PR [#3247](https://github.com/mindsdb/mindsdb/pull/3247) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-3. ❌ Closed PR [#3](https://github.com/ssghait007/notion-as-cms/pull/3) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-4. 🎉 Merged PR [#6](https://github.com/ssghait007/notion-as-cms/pull/6) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+1. 🗣 Commented on [#21](https://github.com/CodeDrills-CD/codedrills-recommender/issues/21) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
+2. 💪 Opened PR [#22](https://github.com/CodeDrills-CD/codedrills-recommender/pull/22) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
+3. 🗣 Commented on [#9](https://github.com/darkmatter18/dockerfile-archive/issues/9) in [darkmatter18/dockerfile-archive](https://github.com/darkmatter18/dockerfile-archive)
+4. 💪 Opened PR [#9](https://github.com/darkmatter18/dockerfile-archive/pull/9) in [darkmatter18/dockerfile-archive](https://github.com/darkmatter18/dockerfile-archive)
 <!--END_SECTION:activity-->
 
 </details>
