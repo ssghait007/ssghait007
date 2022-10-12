@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#21](https://github.com/CodeDrills-CD/codedrills-recommender/issues/21) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
-2. 💪 Opened PR [#22](https://github.com/CodeDrills-CD/codedrills-recommender/pull/22) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
-3. 🗣 Commented on [#9](https://github.com/darkmatter18/dockerfile-archive/issues/9) in [darkmatter18/dockerfile-archive](https://github.com/darkmatter18/dockerfile-archive)
-4. 💪 Opened PR [#9](https://github.com/darkmatter18/dockerfile-archive/pull/9) in [darkmatter18/dockerfile-archive](https://github.com/darkmatter18/dockerfile-archive)
+1. 🗣 Commented on [#3247](https://github.com/mindsdb/mindsdb/issues/3247) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+2. 🗣 Commented on [#21](https://github.com/CodeDrills-CD/codedrills-recommender/issues/21) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
+3. 💪 Opened PR [#22](https://github.com/CodeDrills-CD/codedrills-recommender/pull/22) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
+4. 🗣 Commented on [#9](https://github.com/darkmatter18/dockerfile-archive/issues/9) in [darkmatter18/dockerfile-archive](https://github.com/darkmatter18/dockerfile-archive)
 <!--END_SECTION:activity-->
 
 </details>
