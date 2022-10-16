@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#3247](https://github.com/mindsdb/mindsdb/issues/3247) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
-2. 🗣 Commented on [#21](https://github.com/CodeDrills-CD/codedrills-recommender/issues/21) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
-3. 💪 Opened PR [#22](https://github.com/CodeDrills-CD/codedrills-recommender/pull/22) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
-4. 🗣 Commented on [#9](https://github.com/darkmatter18/dockerfile-archive/issues/9) in [darkmatter18/dockerfile-archive](https://github.com/darkmatter18/dockerfile-archive)
+1. 💪 Opened PR [#51](https://github.com/prashant1146/Hactober2022/pull/51) in [prashant1146/Hactober2022](https://github.com/prashant1146/Hactober2022)
+2. 🗣 Commented on [#23](https://github.com/prashant1146/Hactober2022/issues/23) in [prashant1146/Hactober2022](https://github.com/prashant1146/Hactober2022)
+3. 🗣 Commented on [#3247](https://github.com/mindsdb/mindsdb/issues/3247) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+4. 🗣 Commented on [#21](https://github.com/CodeDrills-CD/codedrills-recommender/issues/21) in [CodeDrills-CD/codedrills-recommender](https://github.com/CodeDrills-CD/codedrills-recommender)
 <!--END_SECTION:activity-->
 
 </details>
