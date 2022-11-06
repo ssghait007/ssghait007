@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 🗣 Commented on [#8](https://github.com/Pekanu/Pekanu-Compute-Engine/issues/8) in [Pekanu/Pekanu-Compute-Engine](https://github.com/Pekanu/Pekanu-Compute-Engine)
-2. 💪 Opened PR [#51](https://github.com/prashant1146/Hactober2022/pull/51) in [prashant1146/Hactober2022](https://github.com/prashant1146/Hactober2022)
-3. 🗣 Commented on [#23](https://github.com/prashant1146/Hactober2022/issues/23) in [prashant1146/Hactober2022](https://github.com/prashant1146/Hactober2022)
-4. 🗣 Commented on [#3247](https://github.com/mindsdb/mindsdb/issues/3247) in [mindsdb/mindsdb](https://github.com/mindsdb/mindsdb)
+1. 💪 Opened PR [#10](https://github.com/ssghait007/notion-as-cms/pull/10) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+2. 🗣 Commented on [#8](https://github.com/Pekanu/Pekanu-Compute-Engine/issues/8) in [Pekanu/Pekanu-Compute-Engine](https://github.com/Pekanu/Pekanu-Compute-Engine)
+3. 💪 Opened PR [#51](https://github.com/prashant1146/Hactober2022/pull/51) in [prashant1146/Hactober2022](https://github.com/prashant1146/Hactober2022)
+4. 🗣 Commented on [#23](https://github.com/prashant1146/Hactober2022/issues/23) in [prashant1146/Hactober2022](https://github.com/prashant1146/Hactober2022)
 <!--END_SECTION:activity-->
 
 </details>
