@@ -55,12 +55,6 @@
 
 [![Top Langs](https://github-readme-stats.ssghait007.vercel.app/api/top-langs/?username=ssghait007&layout=compact)](https://github.com/ssghait007/pyclone)
 
-<!--START_SECTION:waka-->
-```text
-No Activity tracked this Week
-```
-<!--END_SECTION:waka-->
-
 [linkedin]: https://www.linkedin.com/in/sachin-ghait-02977794/
 [facebook]: https://www.facebook.com/ssghait
 [instagram]: https://www.instagram.com/sachin_ghait/
