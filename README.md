@@ -38,10 +38,10 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#12](https://github.com/ssghait007/notion-as-cms/pull/12) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-2. 💪 Opened PR [#11](https://github.com/ssghait007/notion-as-cms/pull/11) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-3. 💪 Opened PR [#10](https://github.com/ssghait007/notion-as-cms/pull/10) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-4. 🗣 Commented on [#8](https://github.com/Pekanu/Pekanu-Compute-Engine/issues/8) in [Pekanu/Pekanu-Compute-Engine](https://github.com/Pekanu/Pekanu-Compute-Engine)
+1. 🎉 Merged PR [#46](https://github.com/nonfx/starchitect-cloudguard/pull/46) in [nonfx/starchitect-cloudguard](https://github.com/nonfx/starchitect-cloudguard)
+2. 🎉 Merged PR [#45](https://github.com/nonfx/starchitect-cloudguard/pull/45) in [nonfx/starchitect-cloudguard](https://github.com/nonfx/starchitect-cloudguard)
+3. 🎉 Merged PR [#42](https://github.com/nonfx/starchitect-cloudguard/pull/42) in [nonfx/starchitect-cloudguard](https://github.com/nonfx/starchitect-cloudguard)
+4. 💪 Opened PR [#43](https://github.com/nonfx/starchitect-cloudguard/pull/43) in [nonfx/starchitect-cloudguard](https://github.com/nonfx/starchitect-cloudguard)
 <!--END_SECTION:activity-->
 
 </details>
