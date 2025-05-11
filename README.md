@@ -38,8 +38,8 @@
   <summary>:zap: Recent GitHub Activity</summary>
   
 <!--START_SECTION:activity-->
-1. 💪 Opened PR [#46](https://github.com/ssghait007/notion-as-cms/pull/46) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
-2. 💪 Opened PR [#45](https://github.com/ssghait007/notion-as-cms/pull/45) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+1. 💪 Opened PR [#47](https://github.com/ssghait007/notion-as-cms/pull/47) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
+2. 💪 Opened PR [#46](https://github.com/ssghait007/notion-as-cms/pull/46) in [ssghait007/notion-as-cms](https://github.com/ssghait007/notion-as-cms)
 3. 🎉 Merged PR [#45](https://github.com/nonfx/starchitect-cloudguard/pull/45) in [nonfx/starchitect-cloudguard](https://github.com/nonfx/starchitect-cloudguard)
 4. 🎉 Merged PR [#42](https://github.com/nonfx/starchitect-cloudguard/pull/42) in [nonfx/starchitect-cloudguard](https://github.com/nonfx/starchitect-cloudguard)
 <!--END_SECTION:activity-->
